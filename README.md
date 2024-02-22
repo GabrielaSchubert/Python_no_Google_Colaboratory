@@ -1,5 +1,4 @@
-### Olá 👋 Eu sou a Gabriela Schubert
+## Exercícios de Python no Colaboratory 😄  
+***
+* Exercícios básicos na linguagem de programação: **Python**.  
 
-
-- 🌱 Estudando Sistema De Informação.
-- 😄 Pronouns: ela/dela
